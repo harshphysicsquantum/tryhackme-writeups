@@ -2,7 +2,7 @@
 Defensive Security Intro write-up | tryhackme
 Task 1
 Defensive security is the practice of protecting computer systems, networks, and data from cyber threats, attacks, and unauthorized access. Its main goal is to prevent breaches, detect suspicious activity, and respond quickly to minimize damage.
-It involves measures like monitoring systems, analyzing logs, managing vulnerabilities, and implementing security controls such as firewalls, intrusion detection systems (IDS), and antivirus software. Defensive security professionals focus on strengthening systems, identifying weaknesses, and ensuring that attacks are stopped or contained before causing harm.
+It involves measures like monitoring systems, analyzing logs, managing vulnerabilities, and implementing security controls such as firewalls, intrusion detection systems (IDS), and antivirus software. Defensive security professionals focus on strengthening systems, identifying weaknesses, and ensuring that attacks are stopped or ccontained before causing harm.
 In real-world scenarios, defensive security helps organizations protect sensitive data, maintain user trust, and ensure business continuity by reducing the impact of cyberattacks.
 Some of the tasks that are related to defensive security include:
 User cyber security awareness: Training users about cyber security helps protect against attacks targeting their systems.
